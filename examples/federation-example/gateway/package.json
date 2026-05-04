@@ -5,7 +5,7 @@
   "dependencies": {
     "@graphql-mesh/cli": "0.100.52",
     "@graphql-mesh/graphql": "0.104.39",
-    "@graphql-mesh/transform-federation": "0.104.37",
+    "@graphql-mesh/transform-federation": "0.104.38",
     "graphql": "16.13.2"
   }
 }
