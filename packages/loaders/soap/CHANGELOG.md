@@ -1,5 +1,34 @@
 # @omnigraph/soap
 
+## 0.107.46
+
+### Patch Changes
+
+- [#9457](https://github.com/ardatan/graphql-mesh/pull/9457)
+  [`b2d2384`](https://github.com/ardatan/graphql-mesh/commit/b2d23842a1a21e3f0cce1beb0f082ffbb4d58d74)
+  Thanks [@dependabot](https://github.com/apps/dependabot)! - dependencies updates:
+  - Updated dependency
+    [`fast-xml-parser@^5.7.2` ↗︎](https://www.npmjs.com/package/fast-xml-parser/v/5.7.2) (from
+    `^5.7.1`, in `dependencies`)
+
+- [#9460](https://github.com/ardatan/graphql-mesh/pull/9460)
+  [`899de24`](https://github.com/ardatan/graphql-mesh/commit/899de247383fdc0712286c1db3f4cb17afcf052c)
+  Thanks [@dependabot](https://github.com/apps/dependabot)! - dependencies updates:
+  - Updated dependency
+    [`fast-xml-parser@^5.7.0` ↗︎](https://www.npmjs.com/package/fast-xml-parser/v/5.7.0) (from
+    `^5.7.2`, in `dependencies`)
+
+- [#9459](https://github.com/ardatan/graphql-mesh/pull/9459)
+  [`9d3f4ae`](https://github.com/ardatan/graphql-mesh/commit/9d3f4ae9516cf04a3fca9e57afe3f4a043cd4b44)
+  Thanks [@copilot-swe-agent](https://github.com/apps/copilot-swe-agent)! - Fix CodeQL polynomial
+  ReDoS warning in SOAPLoader by replacing regex chain on namespace URIs with a linear
+  character-by-character slug helper
+
+- Updated dependencies
+  [[`b2d2384`](https://github.com/ardatan/graphql-mesh/commit/b2d23842a1a21e3f0cce1beb0f082ffbb4d58d74),
+  [`899de24`](https://github.com/ardatan/graphql-mesh/commit/899de247383fdc0712286c1db3f4cb17afcf052c)]:
+  - @graphql-mesh/transport-soap@0.10.46
+
 ## 0.107.45
 
 ### Patch Changes

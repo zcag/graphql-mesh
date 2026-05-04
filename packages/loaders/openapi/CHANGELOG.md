@@ -1,5 +1,16 @@
 # @omnigraph/openapi
 
+## 0.109.53
+
+### Patch Changes
+
+- [#9462](https://github.com/ardatan/graphql-mesh/pull/9462)
+  [`f39d6e2`](https://github.com/ardatan/graphql-mesh/commit/f39d6e2f647b1df4d2715366a809db3efbabdbb0)
+  Thanks [@yarinvak](https://github.com/yarinvak)! - Resolve inline OpenAPI discriminator mappings
+  in nested request and response schemas
+
+  Fixes [#9456](https://github.com/ardatan/graphql-mesh/issues/9456)
+
 ## 0.109.52
 
 ### Patch Changes
